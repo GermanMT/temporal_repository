@@ -1,1 +1,1 @@
-tensorflow-serving-api
+tfx-bsl
